@@ -27,6 +27,10 @@ Steps:
 2-	Functions used (getAttributeNode , querySelector).
 3-	It was created with ( For..Of )  and  (If condition ).
  ---- Highlight section when it is near to the viewport through scrolling function (active_section()).
+------ Scroll to anchor ID using scrollTO event smoothly 
+1-	Properties  used (pageYOffset,length).
+2-	Functions used (querySelectorAll,getAttributeNode,substr,offsetTop,scrollTo).
+3-	It was created with ( For..Of )  and  (If condition ).
 ------ Back top function (back_to_top()) that appear when user scroll more than the browser height .
 ------- Collapse navigation bar menu with small screens like tablets and phones using @media CSS and function collapse () that toggle hidden class with click event on menu button.
 
