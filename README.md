@@ -1,6 +1,6 @@
 # Landing Page Project
 
-##Steps:
+## Steps:
 > `js/app.js` has been linked.
 > CSS file updated to fit with responsive 
 > Global variables and constant has been defined.
